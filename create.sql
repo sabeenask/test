@@ -1,0 +1,1 @@
+create table test_db_1 {testdbcol varchar2(30)}
